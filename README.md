@@ -40,4 +40,10 @@ perhatikan struktur algoritma dengan psuedocode berikut ini:
 
 13. stop
 
-Flowchart.png
+Tampilan Flowchartnya
+
+![Flowchart](https://github.com/user-attachments/assets/b38b5b93-df26-4ffc-81e1-f403ceeb9e17)
+
+Program yang dibuat
+
+
