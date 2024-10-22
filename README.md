@@ -40,3 +40,4 @@ perhatikan struktur algoritma dengan psuedocode berikut ini:
 
 13. stop
 
+Flowchart.png
