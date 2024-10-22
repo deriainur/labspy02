@@ -46,4 +46,7 @@ Tampilan Flowchartnya
 
 Program yang dibuat
 
+![code program](https://github.com/user-attachments/assets/f28e4032-28e8-44b2-ae1a-1e2aeebde749)
+
+
 
