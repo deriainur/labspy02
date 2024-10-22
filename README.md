@@ -1,4 +1,14 @@
 # labspy02
+
+Nama : ARIFIN SYAHRUL AZHADI HARAHAP 
+
+NIM/Kelas : 352310965/IE.23.C.13
+
+Dosen : Agung Nugroho, S.Kom., M.Kom.
+
+Mata Kuliah : Program Komputer+Praktek
+___________________________________________________________________________________________________________________________________________________________________________________________
+
 Membuat program sederhana pada pyhton menggunakan "if"
 #latihan1
 
@@ -48,5 +58,6 @@ Program yang dibuat
 
 ![code program](https://github.com/user-attachments/assets/f28e4032-28e8-44b2-ae1a-1e2aeebde749)
 
+Hasil Output Program
 
-
+![hasil program](https://github.com/user-attachments/assets/4b9365b1-2d96-47d0-ae20-db1d60c8b2b5)
