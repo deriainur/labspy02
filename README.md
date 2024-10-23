@@ -32,19 +32,29 @@ perhatikan struktur algoritma dengan psuedocode berikut ini:
 
 6. if a>b and a<c:
 
-7. cetak "a terbesar dari bilangan yang diinputkan"
+7. print "a terbesar dari bilangan yang diinputkan"
 
 8. elif b>a and b>c:
 
-9. cetak "b terbesar dari bilangan yang diinputkan"
+9. print "b terbesar dari bilangan yang diinputkan"
 
 10. else
 
-11. cetak "c terbesar dari bilangan yang diiinputkan"
+11. print "c terbesar dari bilangan yang diiinputkan"
 
-12. cetak " nilai terbesar yang diinputkan"
+12. print " nilai terbesar yang diinputkan"
 
-13. stop
+13. end
+
+Langkah-langkah membuat program menggunakan statement "if"
+
+langkah pertama: buat program menggunakan perintah "print" 
+
+langkah kedua: gunakan variabel a,b,c untuk mengginput nilai dengan mengunakan perintah "int(input(
+
+langkah ketiga: gunakan perintah "if", "elif",dan "else" untuk membandingkan bilangan terbesar dengan bilangan terkecil
+
+langkah keempat: jalankan perintan dengan mengklik run pada pyhton
 
 Tampilan Flowchartnya
 
