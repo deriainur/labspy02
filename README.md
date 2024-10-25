@@ -1,8 +1,8 @@
 # labspy02
 
-Nama : ARIFIN SYAHRUL AZHADI HARAHAP 
+Nama : Deri ainur ridho
 
-NIM/Kelas : 352310965/IE.23.C.13
+NIM/Kelas : 352310702/IE.23.C.13
 
 Dosen : Agung Nugroho, S.Kom., M.Kom.
 
